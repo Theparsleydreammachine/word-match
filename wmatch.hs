@@ -1,1 +1,1 @@
-main = putStrLn "Word Match"
+main = putStrLn "Word Matched"
